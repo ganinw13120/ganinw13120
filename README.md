@@ -9,5 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganinw13120&layout=compact&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/ganinw13120/ganinw13120/9c71d12076d0ca7d062d0439ecae08e022a0c2b6/generated/overview.svg)
