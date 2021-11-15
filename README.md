@@ -1,6 +1,5 @@
 ### Hi there, my name is Gan Mongklakorn 😄
 - I'm fast learning and never stop learning 📈
-- I'm 19 years old 👨🏻
 - Passionate with learning and coding 👨‍💻
 
 ### My Statistic
